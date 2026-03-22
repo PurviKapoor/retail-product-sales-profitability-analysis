@@ -60,3 +60,5 @@ Total Sales, Total Profit, Profit Margin (%), Average Discount (%), Order Volume
 ## Conclusion
 The analysis highlights that profitability is driven more by disciplined discounting and product mix optimization than by sales growth alone.
 Strategic focus on high-margin products and tighter financial controls can significantly improve overall performance.
+
+![image alt](https://github.com/PurviKapoor/retail-product-sales-profitability-analysis/blob/fa110768b4b25d4ab57e854f3d4bdd417935c8aa/Dashboard.png)
